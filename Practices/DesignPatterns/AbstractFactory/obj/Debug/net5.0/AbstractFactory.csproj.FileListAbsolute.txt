@@ -1,0 +1,16 @@
+/home/victor-gabriel/Documentos/cursos/Software-Architecture-Fundamentals/Practices/DesignPatterns/AbstractFactory/bin/Debug/net5.0/AbstractFactory
+/home/victor-gabriel/Documentos/cursos/Software-Architecture-Fundamentals/Practices/DesignPatterns/AbstractFactory/bin/Debug/net5.0/AbstractFactory.deps.json
+/home/victor-gabriel/Documentos/cursos/Software-Architecture-Fundamentals/Practices/DesignPatterns/AbstractFactory/bin/Debug/net5.0/AbstractFactory.runtimeconfig.json
+/home/victor-gabriel/Documentos/cursos/Software-Architecture-Fundamentals/Practices/DesignPatterns/AbstractFactory/bin/Debug/net5.0/AbstractFactory.runtimeconfig.dev.json
+/home/victor-gabriel/Documentos/cursos/Software-Architecture-Fundamentals/Practices/DesignPatterns/AbstractFactory/bin/Debug/net5.0/AbstractFactory.dll
+/home/victor-gabriel/Documentos/cursos/Software-Architecture-Fundamentals/Practices/DesignPatterns/AbstractFactory/bin/Debug/net5.0/ref/AbstractFactory.dll
+/home/victor-gabriel/Documentos/cursos/Software-Architecture-Fundamentals/Practices/DesignPatterns/AbstractFactory/bin/Debug/net5.0/AbstractFactory.pdb
+/home/victor-gabriel/Documentos/cursos/Software-Architecture-Fundamentals/Practices/DesignPatterns/AbstractFactory/obj/Debug/net5.0/AbstractFactory.csproj.AssemblyReference.cache
+/home/victor-gabriel/Documentos/cursos/Software-Architecture-Fundamentals/Practices/DesignPatterns/AbstractFactory/obj/Debug/net5.0/AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+/home/victor-gabriel/Documentos/cursos/Software-Architecture-Fundamentals/Practices/DesignPatterns/AbstractFactory/obj/Debug/net5.0/AbstractFactory.AssemblyInfoInputs.cache
+/home/victor-gabriel/Documentos/cursos/Software-Architecture-Fundamentals/Practices/DesignPatterns/AbstractFactory/obj/Debug/net5.0/AbstractFactory.AssemblyInfo.cs
+/home/victor-gabriel/Documentos/cursos/Software-Architecture-Fundamentals/Practices/DesignPatterns/AbstractFactory/obj/Debug/net5.0/AbstractFactory.csproj.CoreCompileInputs.cache
+/home/victor-gabriel/Documentos/cursos/Software-Architecture-Fundamentals/Practices/DesignPatterns/AbstractFactory/obj/Debug/net5.0/AbstractFactory.dll
+/home/victor-gabriel/Documentos/cursos/Software-Architecture-Fundamentals/Practices/DesignPatterns/AbstractFactory/obj/Debug/net5.0/ref/AbstractFactory.dll
+/home/victor-gabriel/Documentos/cursos/Software-Architecture-Fundamentals/Practices/DesignPatterns/AbstractFactory/obj/Debug/net5.0/AbstractFactory.pdb
+/home/victor-gabriel/Documentos/cursos/Software-Architecture-Fundamentals/Practices/DesignPatterns/AbstractFactory/obj/Debug/net5.0/AbstractFactory.genruntimeconfig.cache
