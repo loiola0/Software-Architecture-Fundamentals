@@ -1,0 +1,16 @@
+/home/victor-gabriel/Documentos/cursos/Software-Architecture-Fundamentals/Practices/DesignPatterns/FactoryMethod/bin/Debug/net5.0/FactoryMethod
+/home/victor-gabriel/Documentos/cursos/Software-Architecture-Fundamentals/Practices/DesignPatterns/FactoryMethod/bin/Debug/net5.0/FactoryMethod.deps.json
+/home/victor-gabriel/Documentos/cursos/Software-Architecture-Fundamentals/Practices/DesignPatterns/FactoryMethod/bin/Debug/net5.0/FactoryMethod.runtimeconfig.json
+/home/victor-gabriel/Documentos/cursos/Software-Architecture-Fundamentals/Practices/DesignPatterns/FactoryMethod/bin/Debug/net5.0/FactoryMethod.runtimeconfig.dev.json
+/home/victor-gabriel/Documentos/cursos/Software-Architecture-Fundamentals/Practices/DesignPatterns/FactoryMethod/bin/Debug/net5.0/FactoryMethod.dll
+/home/victor-gabriel/Documentos/cursos/Software-Architecture-Fundamentals/Practices/DesignPatterns/FactoryMethod/bin/Debug/net5.0/ref/FactoryMethod.dll
+/home/victor-gabriel/Documentos/cursos/Software-Architecture-Fundamentals/Practices/DesignPatterns/FactoryMethod/bin/Debug/net5.0/FactoryMethod.pdb
+/home/victor-gabriel/Documentos/cursos/Software-Architecture-Fundamentals/Practices/DesignPatterns/FactoryMethod/obj/Debug/net5.0/FactoryMethod.csproj.AssemblyReference.cache
+/home/victor-gabriel/Documentos/cursos/Software-Architecture-Fundamentals/Practices/DesignPatterns/FactoryMethod/obj/Debug/net5.0/FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+/home/victor-gabriel/Documentos/cursos/Software-Architecture-Fundamentals/Practices/DesignPatterns/FactoryMethod/obj/Debug/net5.0/FactoryMethod.AssemblyInfoInputs.cache
+/home/victor-gabriel/Documentos/cursos/Software-Architecture-Fundamentals/Practices/DesignPatterns/FactoryMethod/obj/Debug/net5.0/FactoryMethod.AssemblyInfo.cs
+/home/victor-gabriel/Documentos/cursos/Software-Architecture-Fundamentals/Practices/DesignPatterns/FactoryMethod/obj/Debug/net5.0/FactoryMethod.csproj.CoreCompileInputs.cache
+/home/victor-gabriel/Documentos/cursos/Software-Architecture-Fundamentals/Practices/DesignPatterns/FactoryMethod/obj/Debug/net5.0/FactoryMethod.dll
+/home/victor-gabriel/Documentos/cursos/Software-Architecture-Fundamentals/Practices/DesignPatterns/FactoryMethod/obj/Debug/net5.0/ref/FactoryMethod.dll
+/home/victor-gabriel/Documentos/cursos/Software-Architecture-Fundamentals/Practices/DesignPatterns/FactoryMethod/obj/Debug/net5.0/FactoryMethod.pdb
+/home/victor-gabriel/Documentos/cursos/Software-Architecture-Fundamentals/Practices/DesignPatterns/FactoryMethod/obj/Debug/net5.0/FactoryMethod.genruntimeconfig.cache
