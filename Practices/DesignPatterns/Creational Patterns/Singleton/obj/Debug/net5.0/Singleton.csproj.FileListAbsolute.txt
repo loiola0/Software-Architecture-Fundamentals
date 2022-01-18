@@ -1,0 +1,16 @@
+/home/victor-gabriel/Documentos/cursos/Software-Architecture-Fundamentals/Practices/DesignPatterns/Creational Patterns/Singleton/bin/Debug/net5.0/Singleton
+/home/victor-gabriel/Documentos/cursos/Software-Architecture-Fundamentals/Practices/DesignPatterns/Creational Patterns/Singleton/bin/Debug/net5.0/Singleton.deps.json
+/home/victor-gabriel/Documentos/cursos/Software-Architecture-Fundamentals/Practices/DesignPatterns/Creational Patterns/Singleton/bin/Debug/net5.0/Singleton.runtimeconfig.json
+/home/victor-gabriel/Documentos/cursos/Software-Architecture-Fundamentals/Practices/DesignPatterns/Creational Patterns/Singleton/bin/Debug/net5.0/Singleton.runtimeconfig.dev.json
+/home/victor-gabriel/Documentos/cursos/Software-Architecture-Fundamentals/Practices/DesignPatterns/Creational Patterns/Singleton/bin/Debug/net5.0/Singleton.dll
+/home/victor-gabriel/Documentos/cursos/Software-Architecture-Fundamentals/Practices/DesignPatterns/Creational Patterns/Singleton/bin/Debug/net5.0/ref/Singleton.dll
+/home/victor-gabriel/Documentos/cursos/Software-Architecture-Fundamentals/Practices/DesignPatterns/Creational Patterns/Singleton/bin/Debug/net5.0/Singleton.pdb
+/home/victor-gabriel/Documentos/cursos/Software-Architecture-Fundamentals/Practices/DesignPatterns/Creational Patterns/Singleton/obj/Debug/net5.0/Singleton.csproj.AssemblyReference.cache
+/home/victor-gabriel/Documentos/cursos/Software-Architecture-Fundamentals/Practices/DesignPatterns/Creational Patterns/Singleton/obj/Debug/net5.0/Singleton.GeneratedMSBuildEditorConfig.editorconfig
+/home/victor-gabriel/Documentos/cursos/Software-Architecture-Fundamentals/Practices/DesignPatterns/Creational Patterns/Singleton/obj/Debug/net5.0/Singleton.AssemblyInfoInputs.cache
+/home/victor-gabriel/Documentos/cursos/Software-Architecture-Fundamentals/Practices/DesignPatterns/Creational Patterns/Singleton/obj/Debug/net5.0/Singleton.AssemblyInfo.cs
+/home/victor-gabriel/Documentos/cursos/Software-Architecture-Fundamentals/Practices/DesignPatterns/Creational Patterns/Singleton/obj/Debug/net5.0/Singleton.csproj.CoreCompileInputs.cache
+/home/victor-gabriel/Documentos/cursos/Software-Architecture-Fundamentals/Practices/DesignPatterns/Creational Patterns/Singleton/obj/Debug/net5.0/Singleton.dll
+/home/victor-gabriel/Documentos/cursos/Software-Architecture-Fundamentals/Practices/DesignPatterns/Creational Patterns/Singleton/obj/Debug/net5.0/ref/Singleton.dll
+/home/victor-gabriel/Documentos/cursos/Software-Architecture-Fundamentals/Practices/DesignPatterns/Creational Patterns/Singleton/obj/Debug/net5.0/Singleton.pdb
+/home/victor-gabriel/Documentos/cursos/Software-Architecture-Fundamentals/Practices/DesignPatterns/Creational Patterns/Singleton/obj/Debug/net5.0/Singleton.genruntimeconfig.cache
