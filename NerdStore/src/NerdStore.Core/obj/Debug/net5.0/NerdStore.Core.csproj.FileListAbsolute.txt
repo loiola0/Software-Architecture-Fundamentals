@@ -1,0 +1,12 @@
+C:\Users\Victor Gabriel\Documents\Estudos\Técnico\Repositories\Software-Architecture-Fundamentals\NerdStore\src\NerdStore.Core\bin\Debug\net5.0\NerdStore.Core.deps.json
+C:\Users\Victor Gabriel\Documents\Estudos\Técnico\Repositories\Software-Architecture-Fundamentals\NerdStore\src\NerdStore.Core\bin\Debug\net5.0\NerdStore.Core.dll
+C:\Users\Victor Gabriel\Documents\Estudos\Técnico\Repositories\Software-Architecture-Fundamentals\NerdStore\src\NerdStore.Core\bin\Debug\net5.0\NerdStore.Core.pdb
+C:\Users\Victor Gabriel\Documents\Estudos\Técnico\Repositories\Software-Architecture-Fundamentals\NerdStore\src\NerdStore.Core\obj\Debug\net5.0\NerdStore.Core.csproj.AssemblyReference.cache
+C:\Users\Victor Gabriel\Documents\Estudos\Técnico\Repositories\Software-Architecture-Fundamentals\NerdStore\src\NerdStore.Core\obj\Debug\net5.0\NerdStore.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor Gabriel\Documents\Estudos\Técnico\Repositories\Software-Architecture-Fundamentals\NerdStore\src\NerdStore.Core\obj\Debug\net5.0\NerdStore.Core.AssemblyInfoInputs.cache
+C:\Users\Victor Gabriel\Documents\Estudos\Técnico\Repositories\Software-Architecture-Fundamentals\NerdStore\src\NerdStore.Core\obj\Debug\net5.0\NerdStore.Core.AssemblyInfo.cs
+C:\Users\Victor Gabriel\Documents\Estudos\Técnico\Repositories\Software-Architecture-Fundamentals\NerdStore\src\NerdStore.Core\obj\Debug\net5.0\NerdStore.Core.csproj.CoreCompileInputs.cache
+C:\Users\Victor Gabriel\Documents\Estudos\Técnico\Repositories\Software-Architecture-Fundamentals\NerdStore\src\NerdStore.Core\obj\Debug\net5.0\NerdStore.Core.dll
+C:\Users\Victor Gabriel\Documents\Estudos\Técnico\Repositories\Software-Architecture-Fundamentals\NerdStore\src\NerdStore.Core\obj\Debug\net5.0\refint\NerdStore.Core.dll
+C:\Users\Victor Gabriel\Documents\Estudos\Técnico\Repositories\Software-Architecture-Fundamentals\NerdStore\src\NerdStore.Core\obj\Debug\net5.0\NerdStore.Core.pdb
+C:\Users\Victor Gabriel\Documents\Estudos\Técnico\Repositories\Software-Architecture-Fundamentals\NerdStore\src\NerdStore.Core\obj\Debug\net5.0\ref\NerdStore.Core.dll

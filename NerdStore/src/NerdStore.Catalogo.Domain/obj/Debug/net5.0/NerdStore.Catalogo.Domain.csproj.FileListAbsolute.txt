@@ -1,0 +1,15 @@
+C:\Users\Victor Gabriel\Documents\Estudos\Técnico\Repositories\Software-Architecture-Fundamentals\NerdStore\src\NerdStore.Catalogo.Domain\bin\Debug\net5.0\NerdStore.Catalogo.Domain.deps.json
+C:\Users\Victor Gabriel\Documents\Estudos\Técnico\Repositories\Software-Architecture-Fundamentals\NerdStore\src\NerdStore.Catalogo.Domain\bin\Debug\net5.0\NerdStore.Catalogo.Domain.dll
+C:\Users\Victor Gabriel\Documents\Estudos\Técnico\Repositories\Software-Architecture-Fundamentals\NerdStore\src\NerdStore.Catalogo.Domain\bin\Debug\net5.0\NerdStore.Catalogo.Domain.pdb
+C:\Users\Victor Gabriel\Documents\Estudos\Técnico\Repositories\Software-Architecture-Fundamentals\NerdStore\src\NerdStore.Catalogo.Domain\bin\Debug\net5.0\NerdStore.Core.dll
+C:\Users\Victor Gabriel\Documents\Estudos\Técnico\Repositories\Software-Architecture-Fundamentals\NerdStore\src\NerdStore.Catalogo.Domain\bin\Debug\net5.0\NerdStore.Core.pdb
+C:\Users\Victor Gabriel\Documents\Estudos\Técnico\Repositories\Software-Architecture-Fundamentals\NerdStore\src\NerdStore.Catalogo.Domain\obj\Debug\net5.0\NerdStore.Catalogo.Domain.csproj.AssemblyReference.cache
+C:\Users\Victor Gabriel\Documents\Estudos\Técnico\Repositories\Software-Architecture-Fundamentals\NerdStore\src\NerdStore.Catalogo.Domain\obj\Debug\net5.0\NerdStore.Catalogo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor Gabriel\Documents\Estudos\Técnico\Repositories\Software-Architecture-Fundamentals\NerdStore\src\NerdStore.Catalogo.Domain\obj\Debug\net5.0\NerdStore.Catalogo.Domain.AssemblyInfoInputs.cache
+C:\Users\Victor Gabriel\Documents\Estudos\Técnico\Repositories\Software-Architecture-Fundamentals\NerdStore\src\NerdStore.Catalogo.Domain\obj\Debug\net5.0\NerdStore.Catalogo.Domain.AssemblyInfo.cs
+C:\Users\Victor Gabriel\Documents\Estudos\Técnico\Repositories\Software-Architecture-Fundamentals\NerdStore\src\NerdStore.Catalogo.Domain\obj\Debug\net5.0\NerdStore.Catalogo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Victor Gabriel\Documents\Estudos\Técnico\Repositories\Software-Architecture-Fundamentals\NerdStore\src\NerdStore.Catalogo.Domain\obj\Debug\net5.0\NerdStore.Catalogo.Domain.csproj.CopyComplete
+C:\Users\Victor Gabriel\Documents\Estudos\Técnico\Repositories\Software-Architecture-Fundamentals\NerdStore\src\NerdStore.Catalogo.Domain\obj\Debug\net5.0\NerdStore.Catalogo.Domain.dll
+C:\Users\Victor Gabriel\Documents\Estudos\Técnico\Repositories\Software-Architecture-Fundamentals\NerdStore\src\NerdStore.Catalogo.Domain\obj\Debug\net5.0\refint\NerdStore.Catalogo.Domain.dll
+C:\Users\Victor Gabriel\Documents\Estudos\Técnico\Repositories\Software-Architecture-Fundamentals\NerdStore\src\NerdStore.Catalogo.Domain\obj\Debug\net5.0\NerdStore.Catalogo.Domain.pdb
+C:\Users\Victor Gabriel\Documents\Estudos\Técnico\Repositories\Software-Architecture-Fundamentals\NerdStore\src\NerdStore.Catalogo.Domain\obj\Debug\net5.0\ref\NerdStore.Catalogo.Domain.dll

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YxBqKbmee3iek+7qEXksUAnqZxvbeBCIeHn/3gfHZIQCMX9nanF+WqNxOcv9NSnztyoNTsoHWHoLw93ta5iTNA==",
+  "dgSpecHash": "kd8qRhFHmqCsFlV/NndkAI60efG1oiyIamf7jebafuGkJlJ+1a3NorCMkgkxbpxhykBMhXnzWJzzjMyDT6M21g==",
   "success": true,
-  "projectFilePath": "C:\\Projetos\\NerdStore\\src\\NerdStore.Core\\NerdStore.Core.csproj",
+  "projectFilePath": "C:\\Users\\Victor Gabriel\\Documents\\Estudos\\Técnico\\Repositories\\Software-Architecture-Fundamentals\\NerdStore\\src\\NerdStore.Core\\NerdStore.Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

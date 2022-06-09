@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projetos\\NerdStore\\src\\NerdStore.Core\\NerdStore.Core.csproj": {}
+    "C:\\Users\\Victor Gabriel\\Documents\\Estudos\\Técnico\\Repositories\\Software-Architecture-Fundamentals\\NerdStore\\src\\NerdStore.Core\\NerdStore.Core.csproj": {}
   },
   "projects": {
-    "C:\\Projetos\\NerdStore\\src\\NerdStore.Core\\NerdStore.Core.csproj": {
+    "C:\\Users\\Victor Gabriel\\Documents\\Estudos\\Técnico\\Repositories\\Software-Architecture-Fundamentals\\NerdStore\\src\\NerdStore.Core\\NerdStore.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\NerdStore\\src\\NerdStore.Core\\NerdStore.Core.csproj",
+        "projectUniqueName": "C:\\Users\\Victor Gabriel\\Documents\\Estudos\\Técnico\\Repositories\\Software-Architecture-Fundamentals\\NerdStore\\src\\NerdStore.Core\\NerdStore.Core.csproj",
         "projectName": "NerdStore.Core",
-        "projectPath": "C:\\Projetos\\NerdStore\\src\\NerdStore.Core\\NerdStore.Core.csproj",
+        "projectPath": "C:\\Users\\Victor Gabriel\\Documents\\Estudos\\Técnico\\Repositories\\Software-Architecture-Fundamentals\\NerdStore\\src\\NerdStore.Core\\NerdStore.Core.csproj",
         "packagesPath": "C:\\Users\\Victor Gabriel\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\NerdStore\\src\\NerdStore.Core\\obj\\",
+        "outputPath": "C:\\Users\\Victor Gabriel\\Documents\\Estudos\\Técnico\\Repositories\\Software-Architecture-Fundamentals\\NerdStore\\src\\NerdStore.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Victor Gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config",
