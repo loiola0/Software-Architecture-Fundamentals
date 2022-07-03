@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "WKa2TZYGYuTsBzqMwa1TNrS6InXMlDA9InL0oDc06BdUalZCSOR6n2JlwOKGd3d60c4skI41JPL+lTdyeOrKjg==",
+  "dgSpecHash": "qZlMuz4Dea4R0EGQz8DHufqblGba9O/VTmUf5GGHqnaMTyAB23/lswYgoimBcDGpr9fNSoQlRiKZkUc8TWXrnw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Victor Gabriel\\Documents\\Estudos\\Técnico\\Repositories\\Software-Architecture-Fundamentals\\NerdStore\\tests\\NerdStore.Catalogo.Domain.Tests\\NerdStore.Catalogo.Domain.Tests.csproj",
   "expectedPackageFiles": [
