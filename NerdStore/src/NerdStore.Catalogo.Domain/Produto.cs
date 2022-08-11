@@ -55,7 +55,7 @@ namespace NerdStore.Catalogo.Domain
             Descricao = descricao;
         }
 
-        public void DebitarProduto(int quantidade)
+        public void DebitarEstoque(int quantidade)
         {
             if (quantidade < 0) quantidade *= -1;
             QuantidadeEstoque -= quantidade;

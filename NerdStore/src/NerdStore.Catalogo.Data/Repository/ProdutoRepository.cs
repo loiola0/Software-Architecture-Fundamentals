@@ -17,7 +17,7 @@ namespace NerdStore.Catalogo.Data.Repository
             _context = context;
         }
 
-        public IUnitOfWork UnityOfWork => _context;
+        public IUnitOfWork UnitiOfWork => _context;
 
         public void Adicionar(Produto produto)
         {
@@ -58,7 +58,7 @@ namespace NerdStore.Catalogo.Data.Repository
         {
             return await _context.Produtos.AsNoTracking().ToListAsync();
         }
-
+        
         public void Dispose()
         {
             _context?.Dispose();

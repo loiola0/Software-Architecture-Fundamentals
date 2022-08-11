@@ -7,7 +7,6 @@ namespace NerdStore.Catalogo.Domain
 {
     public interface IProdutoRepository : IRepository<Produto>
     {
-
         Task<IEnumerable<Produto>> ObterTodos();
 
         Task<Produto> ObterPorId(Guid id);
@@ -23,7 +22,5 @@ namespace NerdStore.Catalogo.Domain
         void Adicionar(Categoria categoria);
 
         void Atualizar(Categoria categoria);
-
-
     }
 }
